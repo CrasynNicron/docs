@@ -1,8 +1,8 @@
-# SKlauncher Documentation
+# Documentação do SKlauncher
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+### Instalação
 
 ```
 $ pnpm install
