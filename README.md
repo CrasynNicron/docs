@@ -1,6 +1,6 @@
 # Documentação do SKlauncher
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Este sítio Web foi construído utilizando [Docusaurus 2](https://docusaurus.io/), um moderno gerador de sites estáticos.
 
 ### Instalação
 
@@ -8,23 +8,23 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 $ pnpm install
 ```
 
-### Local Development
+### Desenvolvimento Local
 
 ```
 $ pnpm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Este comando inicia um servidor de desenvolvimento local e abre uma janela do navegador. A maioria das alterações é reflectida em tempo real sem ter de reiniciar o servidor.
 
-### Build
+### Construir
 
 ```
 $ pnpm build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Este comando gera conteúdo estático no diretório `Construir` e pode ser servido usando qualquer serviço de hospedagem de conteúdo estático.
 
-### Contributing
+### Contribuir
 
-Feel free to contribute if you find any mistakes or want to add anything to the documentation!
+Se encontrar algum erro ou quiser acrescentar algo à documentação, não hesite em contribuir!
 
